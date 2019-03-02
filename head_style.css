@@ -1,0 +1,86 @@
+#menu
+{
+	position: fixed;
+	width: 100%;
+	height: 100px;
+	background: rgb(104, 76, 206);
+	color: rgb(46, 41, 43);
+}
+#about
+{
+	margin-right: 100px;
+	margin-left: 110px;
+}
+#photos
+{
+	margin-right: 100px;
+	margin-left: 110px;
+}
+#playlist
+{
+	margin-right: 100px;
+	margin-left: 110px;
+}
+#like
+{
+	margin-right: 100px;
+	margin-left: 110px;
+}
+#spa
+{
+	margin-right: 100px;
+	margin-left: 110px;
+}
+#contact
+{
+	margin-right: 100px;
+	margin-left: 110px;
+}
+#qrcoder
+{
+	margin-right: 100px;
+	margin-left: 110px;
+}
+body
+{
+	background: rgb(125, 177, 119);
+}
+a
+{
+	color: rgb(46, 41, 43);
+	font-size: 18px;
+}
+iframe
+{
+	margin-left: 350px;
+}
+#like2
+{
+	margin-left: 550px;
+}
+.fancy {
+	line-height: 0.5;
+	text-align: center;
+  }
+  .fancy span {
+	display: inline-block;
+	position: relative;  
+  }
+  .fancy span:before,
+  .fancy span:after {
+	content: "";
+	position: absolute;
+	height: 5px;
+	border-bottom: 1px solid rgba(71, 65, 65, 0.61);
+	border-top: 1px solid rgba(71, 65, 65, 0.61);
+	top: 0;
+	width: 600px;
+  }
+  .fancy span:before {
+	right: 100%;
+	margin-right: 15px;
+  }
+  .fancy span:after {
+	left: 100%;
+	margin-left: 15px;
+  }
