@@ -12,10 +12,15 @@
 	color: rgb(46, 41, 43);
 	z-index: 1;
 }
+.logo
+{
+	cursor: pointer;
+}
 #about
 {
 	margin-right: 100px;
 	margin-left: 110px;
+	font-family: 'Didot', serif;
 }
 .about_cell:hover
 {
@@ -96,10 +101,6 @@
 	text-decoration-line: underline;
 	cursor: pointer;
 }
-#QR
-{
-	margin-left: 480px;
-}
 body
 {
 	background-image: url("background.jpg");
@@ -112,13 +113,9 @@ a
 	color: rgb(46, 41, 43);
 	font-size: 18px;
 }
-iframe
-{
-	margin-left: 350px;
-}
 #like2
 {
-	margin-left: 550px;
+	margin-left: 120px;
 }
 .thumbnail
 {
