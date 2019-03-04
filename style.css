@@ -18,7 +18,7 @@
 }
 #about
 {
-	margin-right: 100px;
+	margin-right: 80px;
 	margin-left: 110px;
 	font-family: 'Didot', serif;
 }
@@ -31,7 +31,7 @@
 }
 #photos
 {
-	margin-right: 100px;
+	margin-right: 80px;
 	margin-left: 110px;
 }
 .photos_cell:hover
@@ -43,7 +43,7 @@
 }
 #playlist
 {
-	margin-right: 100px;
+	margin-right: 80px;
 	margin-left: 110px;
 }
 .playlist_cell:hover
@@ -55,7 +55,7 @@
 }
 #like
 {
-	margin-right: 100px;
+	margin-right: 80px;
 	margin-left: 110px;
 }
 .like_cell:hover
@@ -67,7 +67,7 @@
 }
 #spa
 {
-	margin-right: 100px;
+	margin-right: 80px;
 	margin-left: 110px;
 }
 .spa_cell:hover
@@ -79,7 +79,7 @@
 }
 #contact
 {
-	margin-right: 100px;
+	margin-right: 80px;
 	margin-left: 110px;
 }
 .contact_cell:hover
@@ -91,8 +91,12 @@
 }
 #qrcoder
 {
-	margin-right: 100px;
+	margin-right: 80px;
 	margin-left: 110px;
+}
+#slogans
+{
+	border: double rgb(104, 76, 206);
 }
 .qrcoder_cell:hover
 {
