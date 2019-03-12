@@ -16,10 +16,13 @@
 {
 	cursor: pointer;
 }
-#about
+.section_margin
 {
 	margin-right: 80px;
 	margin-left: 110px;
+}
+#about
+{
 	font-family: 'Didot', serif;
 }
 .about_cell:hover
@@ -29,22 +32,12 @@
 	text-decoration-line: underline;
 	cursor: pointer;
 }
-#photos
-{
-	margin-right: 80px;
-	margin-left: 110px;
-}
 .photos_cell:hover
 {
 	background-color: rgb(145, 115, 255);
 	color: #000000;
 	text-decoration-line: underline;
 	cursor: pointer;
-}
-#playlist
-{
-	margin-right: 80px;
-	margin-left: 110px;
 }
 .playlist_cell:hover
 {
@@ -53,22 +46,12 @@
 	text-decoration-line: underline;
 	cursor: pointer;
 }
-#like
-{
-	margin-right: 80px;
-	margin-left: 110px;
-}
 .like_cell:hover
 {
 	background-color: rgb(145, 115, 255);
 	color: #000000;
 	text-decoration-line: underline;
 	cursor: pointer;
-}
-#QA
-{
-	margin-right: 80px;
-	margin-left: 110px;
 }
 .QA_cell:hover
 {
@@ -77,22 +60,12 @@
 	text-decoration-line: underline;
 	cursor: pointer;
 }
-#contact
-{
-	margin-right: 80px;
-	margin-left: 110px;
-}
 .contact_cell:hover
 {
 	background-color: rgb(145, 115, 255);
 	color: #000000;
 	text-decoration-line: underline;
 	cursor: pointer;
-}
-#qrcoder
-{
-	margin-right: 80px;
-	margin-left: 110px;
 }
 #slogans
 {
