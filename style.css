@@ -65,12 +65,12 @@
 	text-decoration-line: underline;
 	cursor: pointer;
 }
-#spa
+#QA
 {
 	margin-right: 80px;
 	margin-left: 110px;
 }
-.spa_cell:hover
+.QA_cell:hover
 {
 	background-color: rgb(145, 115, 255);
 	color: #000000;
@@ -120,6 +120,10 @@ a
 #like2
 {
 	margin-left: 120px;
+}
+table td.empty
+{
+   background-image: linear-gradient(to bottom left,  transparent calc(50% - 1px), rgb(0, 0, 0), transparent calc(50% + 1px)); 
 }
 .thumbnail
 {
